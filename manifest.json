@@ -1,0 +1,26 @@
+{
+ "name": "Jogja Koi Fish",
+ "short_name": "JKF",
+ "description": "JKF - Best Koi Importer",
+ "lang": "en-US",
+ "dir": "ltr",
+ "theme_color": "#414f57",
+ "start_url": ".",
+ "background_color": "#000",
+ "display": "standalone",
+ "orientation": "portrait-primary",
+ 
+ "icons": 
+ 	[{
+   		"src": "assets/img/pwaicon.png",
+   		"sizes": "72x72",
+   		"type": "image/png"
+  	}, 
+
+  	{
+   		"src": "assets/img/pwaiconl.png",
+   		"sizes": "512x512",
+   		"type": "image/png",
+   		"purpose": "any maskable"
+  	}]
+}
